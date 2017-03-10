@@ -1,0 +1,35 @@
+
+h1{
+  margin-bottom: 5px;
+}
+
+h2{
+  border-bottom: 2px solid black;
+  margin: 0px 0px;
+}
+
+.title{
+  font-weight: bold;
+  padding: 8px 0px;
+}
+
+.result{
+font-weight: bold;
+text-align: right;
+
+}
+
+.green{
+  color: green;
+  font-weight: bold;
+}
+
+.grey{
+  color: grey;
+  font-weight: bold;
+}
+
+.red{
+  color: red;
+  font-weight: bold;
+}
